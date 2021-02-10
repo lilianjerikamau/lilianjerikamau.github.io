@@ -355,7 +355,7 @@ hr {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.service-item p {
+.service-entry p {
   font-family: "poppins" sans-serif;
   font-size: 1.4rem;
 }
@@ -478,7 +478,7 @@ footer a {
   }
 }
 @media (max-width: 665px) {
-  .main-message {
+  .main-content {
     top: 55%;
   }
   .main-content h2 {
