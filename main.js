@@ -1,5 +1,5 @@
 //function expression to select elements
-//(s) is  a perimeter
+//(s) is  a parameter
 const selectElement = (s) => document.querySelector(s);
 const navLinks = document.querySelectorAll(".side-nav-link");
 

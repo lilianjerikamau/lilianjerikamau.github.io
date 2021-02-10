@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Share+Tech+Mono&display=swap");
+/*Global Styling*/
+
+/*Used for overriding/resetting some default styling*
+/*The * selector applies these values to every element on the page, 
+and the ::before/::after make sure it also applies to any pseudo-elements.*/
+
 *,
 *::before,
 *::after {
