@@ -28,4 +28,4 @@ TODO: Write credits
 
 ## License & copyright
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) ©
