@@ -26,6 +26,10 @@ TODO: Write history
 
 TODO: Write credits
 
+## Demo
+
+Here is a working live demo : https://lilianjerikamau.github.io/
+
 ## License & copyright
 
-[MIT](https://choosealicense.com/licenses/mit/) ©
+[MIT](https://choosealicense.com/licenses/mit/) © [Lilian Kamau](https://github.com/lilianjerikamau/lilianjerikamau.github.io)
