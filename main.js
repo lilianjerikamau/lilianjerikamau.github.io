@@ -15,15 +15,15 @@ selectElement(".menu-button").addEventListener("click",()=>{
     //if animation exists,set it as an empty string else use the animation navaLinkAnimate specified in the main.css 
     //then divide the index by 7 for a smoother and slower delay.
 
-    navLinks.forEach((link,index) => {
+    navLinks.forEach((link, index) => {
         // console.log(index)
-        if (link.style.animation){
-        link.style.animation=""
-    }else{
-        link.style.animation = ` sidenavLinkAnimation 0.5s ease forwards ${ index/7 + 0.5}s`
-        // console.log(index/7 + 0.5)
-    }
-    })
+        if (link.style.animation) {
+            link.style.animation = ""
+        } else {
+            link.style.animation = ` sidenavLinkAnimation 0.5s ease forwards ${index / 7 + 0.5}s`
+            // console.log(index/7 + 0.5)
+        }
+    });
 });
 navLinks.forEach(link => {
     link.addEventListener("click", () => {
