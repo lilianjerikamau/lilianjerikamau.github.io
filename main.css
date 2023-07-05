@@ -13,7 +13,7 @@ and the ::before/::after make sure it also applies to any pseudo-elements.*/
   box-sizing: inherit;
 }
 html {
-  font-family: Share Tech Mono, monospace;
+  font-family: "Roboto", sans-serif;
   font-size: 12px;
   box-sizing: border-box;
   scroll-behavior: smooth;
