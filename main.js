@@ -52,6 +52,7 @@ window.addEventListener("load", function() {
     showSlide("slideshow2");
     showSlide("slideshow3");
     showSlide("slideshow4");
+    showSlide("slideshow5");
   });
   
 
