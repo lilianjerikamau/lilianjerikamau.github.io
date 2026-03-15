@@ -107,6 +107,7 @@ window.addEventListener("load", function() {
     showSlide("slideshow4");
 
     showSlide("slideshow5");
+    showSlide("slideshow6");
 
   });
 
